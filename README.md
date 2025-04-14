@@ -15,5 +15,6 @@ Utilisé pour séparer la logique d'accès aux données de la logique métier.
  
 6. Façade (Structural Pattern)
 Utilisé pour fournir une interface simplifiée à un ensemble complexe de classes.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7202a499-282b-4ec5-a3ea-5dd62397e5f7)
+
 
